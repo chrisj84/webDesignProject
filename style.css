@@ -105,3 +105,27 @@ h2 {
     height: auto;
     width: 80%;
 }
+.exampleStyle {
+    display:inline-block;
+    margin-left: 50px;
+}
+.styleList{
+    padding-left: 20px; 
+}
+#exampleHeadingOne{
+    font-weight: 700;
+    font-size: 26px;
+    color: black;
+    font-family: Silkscreen;
+}
+#exampleHeadingTwo{
+    left: 0;
+    font-family: "Schibsted Grotesk";
+    font-weight: 500;
+    font-size: 18; 
+}
+#exampleHeadingThree{
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Edu TAS Beginner";
+}
