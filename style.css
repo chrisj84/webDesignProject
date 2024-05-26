@@ -1,3 +1,6 @@
+html{
+    background-color: azure;
+}
 .colours {
     border: solid 1px black;
     height: auto;
@@ -44,8 +47,61 @@ h2 {
 }
 
 .fonts {
-    margin-top: 2px;
-    border: solid 2px cornflowerblue; 
+    margin-top: 4px;
+    border: solid 1px cornflowerblue; 
     height: auto; 
     width: 80%; 
+}
+
+/* Font section*/
+
+#eduOne{
+    font-family: "Edu TAS Beginner";
+    margin-top: 5px;
+}
+#eduTwo{
+    font-family: "Edu TAS Beginner";
+    font-weight: 500;
+}
+#eduThree{
+    font-family: "Edu TAS Beginner";
+    font-weight: 700;
+}
+#silkOne {
+    font-family: Silkscreen;
+    margin-top: 5px;
+}
+#silkTwo {
+    font-family: Silkscreen;
+    font-weight: 700;
+}
+#silkThree {
+    font-family: Silkscreen;
+    font-style: italic;
+}
+#schiOne {
+    font-family: "Schibsted Grotesk";
+    margin-top: 5px;
+}
+#schiThree {
+    font-family: "Schibsted Grotesk";
+    font-weight: 700;
+    font-style: italic;
+}
+.fontH{
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+.exampleFont{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+/* Text Style */
+
+.style{
+    margin-top: 4px;
+    border: solid 1px steelblue;
+    height: auto;
+    width: 80%;
 }
