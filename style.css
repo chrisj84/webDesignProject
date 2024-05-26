@@ -1,0 +1,51 @@
+.colours {
+    border: solid 1px black;
+    height: auto;
+    width: 80%;
+    
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    padding: 2px;
+    margin-left: 10px;
+    position: relative; 
+    left: 36px;
+    
+}
+
+.colourBox {
+    border: solid 2px black;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    position: relative;
+    top: 1px;
+    left -25px;
+    display:inline-block; 
+    width: 20%;
+    height: 50px; 
+}   
+#black{
+    background-color: black;
+    color: white;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+
+.fonts {
+    margin-top: 2px;
+    border: solid 2px cornflowerblue; 
+    height: auto; 
+    width: 80%; 
+}
